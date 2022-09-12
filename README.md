@@ -61,3 +61,9 @@ Enjoy!
 to [@snowwlex](https://github.com/snowwlex) for the base of my port (and this README)!
 
 QtWaitingSpinner was inspired by the [spin.js](http://fgnass.github.io/spin.js/)  project.
+
+From Sean: 
+
+I updated the pyqt 5 enums to pqt6 - import the  waitingspinnerwidget.py file into your project. I didn't get a chance to test the demo file. But hope this helps :) 
+
+
